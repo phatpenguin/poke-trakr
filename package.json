@@ -1,0 +1,21 @@
+{
+  "name": "poke-trakr",
+  "version": "1.0.0",
+  "description": "Pokemon Tracker -- What Pokemon did you catch and where did you catch it??",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phatpenguin/poke-trakr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phatpenguin/poke-trakr/issues"
+  },
+  "homepage": "https://github.com/phatpenguin/poke-trakr#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "director": "^1.2.8",
+    "react": "^15.2.1"
+  }
+}
